@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Species Traits Quiz</string>
+
+    <string name="question_1">1. Which species group does the species belongs to?</string>
+    <string name="question_1_option_1">Plants</string>
+    <string name="question_1_option_2">Birds</string>
+    <string name="question_1_option_3">Mammals</string>
+
+    <string name="question_2">2. What is this species commonly called as?</string>
+    <string name="question_2_option_1">Woodpecker</string>
+    <string name="question_2_option_2">Kingfisher</string>
+
+    <string name="question_3">3. What kind of food does the kingfisher like to eat?</string>
+    <string name="question_3_option_1">Weeds</string>
+    <string name="question_3_option_2">Fish</string>
+    <string name="question_3_option_3">Frog</string>
+    <string name="question_3_option_4">Algae</string>
+
+    <string name="question_4">4. What is the length of this species :</string>
+
+
+    <string name="question_5">5. What is the conservation status of the species :</string>
+    <string name="question_5_option_1">Least Concern</string>
+    <string name="question_5_option_2">Vulnerable</string>
+    <string name="question_5_option_3">Least Endangered</string>
+    <string name="question_5_option_4">Extinct</string>
+
+    <string name="loading">Loading content...</string>
+    <string name="quiz_para">Please take a look at the following species and answer the quiz below.</string>
+    <string name="species_title">Pelargopsis capensis</string>
+    <string name="species_description">The stork-billed kingfisher (Pelargopsis capensis, formerly Halcyon capensis), is a tree kingfisher which is widely but sparsely distributed in the tropical Indian subcontinent and Southeast Asia, from India to Indonesia. It is a very large kingfisher, measuring 35 to 38 cm (14 to 15 in) in length. The adult has a green back, blue wings and tail, and grey head. Its underparts and neck are buff. The very large bill and legs are bright red.</string>
+
+</resources>
