@@ -30,4 +30,9 @@
     <string name="species_title">Pelargopsis capensis</string>
     <string name="species_description">The stork-billed kingfisher (Pelargopsis capensis, formerly Halcyon capensis), is a tree kingfisher which is widely but sparsely distributed in the tropical Indian subcontinent and Southeast Asia, from India to Indonesia. It is a very large kingfisher, measuring 35 to 38 cm (14 to 15 in) in length. The adult has a green back, blue wings and tail, and grey head. Its underparts and neck are buff. The very large bill and legs are bright red.</string>
 
+    <string name="species_image">Species image</string>
+    <string name="min_in_cm">Min in cm</string>
+    <string name="max_in_cm">Max in cm</string>
+    <string name="submit">Submit</string>
+
 </resources>

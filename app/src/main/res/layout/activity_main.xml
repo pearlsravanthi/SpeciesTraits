@@ -8,7 +8,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical">
 
         <LinearLayout
@@ -27,14 +27,14 @@
             <TextView
                 android:id="@+id/species_title"
                 style="@style/question_style"
-                android:textStyle="italic"
-                android:text="@string/species_title" />
+                android:text="@string/species_title"
+                android:textStyle="italic" />
 
             <ImageView
                 android:id="@+id/species_image"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@id/species_title" />
+                android:contentDescription="@string/species_image" />
 
             <TextView
                 android:id="@+id/species_description"
@@ -168,13 +168,15 @@
                 android:id="@+id/question_4_edit_text_min"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Min in cm" />
+                android:hint="@string/min_in_cm"
+                android:inputType="number" />
 
             <EditText
                 android:id="@+id/question_4_edit_text_max"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Max in cm" />
+                android:hint="@string/max_in_cm"
+                android:inputType="number" />
         </LinearLayout>
 
         <LinearLayout
@@ -216,7 +218,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="checkQuiz"
-            android:text="Submit" />
+            android:text="@string/submit" />
 
     </LinearLayout>
 </ScrollView>
